@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base-api" />
+        <module name="base-dubbo-ext" />
+        <module name="base-spi" />
+        <module name="busi-logic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base-api" target="1.8" />
+      <module name="base-dubbo-ext" target="1.8" />
+      <module name="base-spi" target="1.8" />
+      <module name="busi-logic" target="1.8" />
+      <module name="dubbo-thought" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

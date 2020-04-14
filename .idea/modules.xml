@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-api/base-api.iml" filepath="$PROJECT_DIR$/base-api/base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-dubbo-ext/base-dubbo-ext.iml" filepath="$PROJECT_DIR$/base-dubbo-ext/base-dubbo-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-spi/base-spi.iml" filepath="$PROJECT_DIR$/base-spi/base-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busi-logic/busi-logic.iml" filepath="$PROJECT_DIR$/busi-logic/busi-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-thought.iml" filepath="$PROJECT_DIR$/dubbo-thought.iml" />
+    </modules>
+  </component>
+</project>
